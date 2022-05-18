@@ -1,0 +1,7 @@
+pandas==1.1.5
+xlrd==2.0.1
+jupyterlab==3.2.3
+matplotlib==3.3.4
+scikit-learn==0.24.2
+ceml==0.6.1
+wntr==0.4.0
