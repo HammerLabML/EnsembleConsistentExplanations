@@ -46,4 +46,4 @@ MIT license - See [LICENSE](LICENSE)
 
 ## How to cite
 
-You can cite the version on [arXiv](TODO)
+You can cite the version on [arXiv](https://arxiv.org/abs/2205.08974)
